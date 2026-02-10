@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Seguiremos poniendo a prueba
 
 Los pull request
 
 ahora con un nuevo archivo
+=======
+
+>>>>>>> 6a0d905b0ac476e8f975f1ecdb593a81da3b1cea
