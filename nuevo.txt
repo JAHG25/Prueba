@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 jhbdna 
 asndnklas
 
 adnwndasñj
 
 dasddn  akdn
+=======
+
+>>>>>>> 6a0d905b0ac476e8f975f1ecdb593a81da3b1cea
