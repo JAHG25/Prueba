@@ -213,3 +213,18 @@ else:
   tipo = 45
 pago = renta_anual * tipo / 100
 print(f"""Tienes que pagar: {pago}""")
+
+#Ejercicio 8
+
+puntuacion = float(input("Ingrese su puntuacion: "))
+
+if puntuacion == 0.0:
+  dinero = 2400
+elif puntuacion == 0.4:
+  dinero = puntuacion * 2400
+elif puntuacion >= 0.6:
+  dinero = puntuacion * 2400
+else:
+  print("Error: No se tiene registrado esa puntuacion")
+
+print(f"""La cantidad de dinero es: {dinero: .2f}""")
