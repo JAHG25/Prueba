@@ -20,6 +20,13 @@ inventario = {
     "platano" : {"Platano" : 6}
 }
 
-print(inventario)
+def busqueda_dic(inventario, indice):
+    if nombre in inventario:
+        return inventario.get(indice)
+    else:
+        return "No se encuentra registrado"
 
-print(inventario["papaya"])
+
+nombre = input(f"Ingrese el nombre de la fruta: ").lower()
+
+print(busqueda_dic(inventario, nombre))
