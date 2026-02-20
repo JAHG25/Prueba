@@ -7,5 +7,17 @@ DB = {
     "renata" : {"name" : "Renata", "age" : 10}
 }
 
-print(DB)
-print(DB["paco"])
+#print(DB["renata"])
+
+inventario = {
+    "rojas" : {"Manzanas rojas" : 23},
+    "amarillas" : {"Manzanas amarillas" : 25},
+    "verdes" : {"Manzanas verdes" : 10},
+    "peras" : {"Peras" : 14},
+    "guayabas" : {"Guayabas" : 16},
+    "melon" : {"Melon" : 3},
+    "papaya" : {"Papaya" : 4},
+    "platano" : {"Platano" : 6}
+}
+
+print(inventario)
