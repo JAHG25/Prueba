@@ -21,3 +21,5 @@ inventario = {
 }
 
 print(inventario)
+
+print(inventario["papaya"])
